@@ -15,4 +15,5 @@ pandas
 seaborn
 streamlit-webrtc
 IPython
+keras
 tensorflow
